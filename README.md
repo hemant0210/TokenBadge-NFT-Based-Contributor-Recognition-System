@@ -6,7 +6,7 @@ TokenBadge is an NFT-based recognition platform  designed to reward contributors
 
 ## 🎯 Project Vision
 
-To empower DAOs, communities, and organizations  with a decentralized credentialing system that honors contribution in a secure, verifiable, and immutable manner using NFTs.
+To empower DAOs, communities, and organizations with a decentralized credentialing system     that honors contribution in a secure, verifiable, and immutable manner using NFTs.
     
 ## ✨ Key Features
 
