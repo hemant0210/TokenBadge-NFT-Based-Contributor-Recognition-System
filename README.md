@@ -10,7 +10,7 @@ To empower DAOs, communities, and organizations with a decentralized credentiali
     
 ## ✨ Key Features
 
-- 🏷️ Mint NFTs as contributor badges
+- 🏷️ Mint NFTs as  contributor badges
 - ⛔ One badge per contributor policy
 - 🔁 Revocable badges for flexible governance
 - 🎨 Metadata support for badge customization
