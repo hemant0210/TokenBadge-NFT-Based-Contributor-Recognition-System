@@ -2,7 +2,7 @@
 
 ## 📄 Project Description
     
-TokenBadge is an NFT-based recognition platform designed to reward contri butors,  volunteers, and participants with unique badges.  Each badge is a non-transferable NFT that serves as proof of contribution and achievement.
+TokenBadge is an NFT-based recognition platform designed to reward contri butors,   volunteers, and participants with unique badges.  Each badge is a non-transferable NFT that serves as proof of contribution and achievement.
 
 ## 🎯 Project Vision
 
